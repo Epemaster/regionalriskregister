@@ -41,3 +41,7 @@ The RRR extends this through explicit geographic scope, named risk ownership, ev
 The public site is a methodological prototype, not risk advice, a government assessment, an investment offer or quantified climate projections. Scientific references and observed local data must be independently reviewed before publishing regional risk ratings. Keep time horizon, global warming level and rate-of-change sensitivity separate.
 
 For evidence intake, prioritise source provenance, licence, date, scale, uncertainty and documented reviewer approval. Validate regional geographic boundaries, Dutch governance responsibilities and financial claims before assigning confidence, priority or a financing mechanism.
+
+## Hosting
+
+Cloudflare Pages project: `regionalriskregister` (GitHub `main` branch). Preview address: https://regionalriskregister.pages.dev. The custom domain `regionalriskregister.com` is pending DNS and registrar verification.
